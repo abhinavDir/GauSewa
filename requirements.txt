@@ -10,3 +10,4 @@ opencv-python-headless==4.8.1.78
 python-jose==3.3.0
 cryptography==42.0.5
 certifi
+gunicorn
